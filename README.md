@@ -11,7 +11,7 @@ The project focuses on visualizing and analyzing sales data to:
 
 ## Files in the Repository
 
-- `sales_data_analysis.pbix`: This is the Power BI file containing interactive dashboards and visual reports on sales data. | https://github.com/nachimuthu2906/POWER-BI-Sample-sales-data-analysis/blob/main/sales_data_sample.csv
+- `sales_data_analysis.pbix`: This is the Power BI file containing interactive dashboards and visual reports on sales data. 
 - `Excel_Data.xlsx` (if applicable): Excel file used for data preprocessing and initial analysis before importing into Power BI.
 - `README.md`: Project documentation (this file).
 
